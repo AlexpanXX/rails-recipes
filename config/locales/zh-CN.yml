@@ -6,5 +6,6 @@ zh-CN:
         description: 描述
   hello: 亲~ %{name} 你好：
   event_list: 活动列表
+  edit_user: 编辑用户
   admin:
     event_list: 活动列表管理

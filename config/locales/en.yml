@@ -22,5 +22,6 @@
 en:
   hello: Hi, %{name}
   event_list: Event List
+  edit_user: Edit User
   admin:
     event_list: Admin Event List
